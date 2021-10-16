@@ -130,4 +130,4 @@ dmypy.json
 
 # ZZ editted
 .DS_Store
-.csv
+*.csv
